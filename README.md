@@ -6,7 +6,7 @@ information about available products, manage orders, and more.
 ## Installation
 
 ```
-npm install --save <package_name>
+npm install tgtg-js
 ```
 
 ## Usage
